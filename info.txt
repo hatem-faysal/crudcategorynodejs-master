@@ -1,0 +1,16 @@
+All package with nodejs
+1-npm init --y
+2-npm install express --save
+3-npm i -D nodemon  (install run time server)
+4-npm i dotenv
+5-npm i morgan (middleware)
+6-npm i mongoose (quairy builder database)
+7-npm i slugify (make slug)
+8-npm install --save express-async-handler  (asyncHandler,try catch)
+9-npm install express-validator  (validator)
+10- npm i colors
+    cd utils/dummyData
+    node seeder.js -i
+    node seeder.js -d
+11-npm install ejs
+12-npx nodemon start:dev
